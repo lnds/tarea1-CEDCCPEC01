@@ -7,7 +7,7 @@ Ejecute los siguientes pasos:
 3. En el interior de este archivo escriba su nombre completo y cargo
 4. Haga commit con un mensaje al estilo "commit convencional" de tipo "feat" (ejemplo: `git commit -am "feat: agrega archivo solicitado"`)
 5. Ejecute el comando `git log` y agregue al archivo anterior el contenido asociado al commit ejecutado en el paso 4
-6. Haga un nuevo commit
+6. Haga un nuevo commit (`git commit -am "feat: agrega contenido del git log"`)
 7. Modifique el archivo `README.md` agregando su nombre y la fecha en la tabla que está al final de este archivo.
 8. Haga un nuevo commit convencional de tipo fix (ejemplo: `git commit -am "fix: agregué mi nombre: Eduardo Diaz a README.md")
 9. Ejecute el commando `git blame README.md` y busque la primera linea que contenga su nombre, agregue el código que sale a la izquierda a la tabla que está al final de este archivo (al lado de su nombre).

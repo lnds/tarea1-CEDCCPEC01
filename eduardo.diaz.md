@@ -11,5 +11,5 @@ Date:   Sat Oct 15 09:04:48 2022 -0300
 
 # ¿Qué hace `git blame`?
 
-No creeran que les iba a dar la respuesta :p
+No creeran que les iba a dar la respuesta :stuck_out_tongue_winking_eye:
 

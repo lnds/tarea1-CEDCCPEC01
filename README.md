@@ -26,4 +26,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Nombre|Fecha|Blame Hash|
 |------|-----|----------|
 |Eduardo Díaz|15 de octubre de 20222|57e0d74c|
-|Lorenzo Veas|16 de octubre de 2022 |
+|Lorenzo Veas|16 de octubre de 2022 |69d17661|

@@ -7,3 +7,4 @@ Date:   Sat Oct 15 21:16:51 2022 -0300
 
     feat:agrega archivo solicitado
 
+¿Que hace git blame? examina el contenido de un archivo linea por linea y ve cuando se modificó por ultima vez cada linea y quien fue el autor de las modificaciones.

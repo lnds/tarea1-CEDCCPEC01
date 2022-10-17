@@ -27,4 +27,6 @@ Date:   Sat Oct 15 09:16:37 2022 -0300
 commit 78837a62260803a8d823eaf88008eb97ada292c8
 Author: Eduardo Diaz <ediaz@dcc8090.cl>
 
+GIT BLAME
+Muestra la información que se ingresó o modificó en cada commit.
 

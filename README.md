@@ -28,4 +28,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Eduardo Díaz|15 de octubre de 20222|57e0d74c|
 |Alejandra Levill|17 de octubre de 20222|8fac9eba|
 |Byron  Pizarro|17 de octubre de 20222|57e0d74c|
-
+|Lorenzo Veas|16 de octubre de 2022 |69d17661|

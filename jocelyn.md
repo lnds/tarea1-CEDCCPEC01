@@ -7,3 +7,6 @@ Author: JocelynPardo <>
 Date:   Mon Oct 17 13:01:18 2022 +0000
 
     feat:Se agrega archivo solicitado
+
+¿QUÉ HACE EL GIT BLAME?
+Muestra la información que se ingresó o modificó en cada commit CO

@@ -9,7 +9,7 @@ Ejecute los siguientes pasos:
 5. Ejecute el comando `git log` y agregue al archivo anterior el contenido asociado al commit ejecutado en el paso 4 (tip: mire el archivo con el nombre del profesor en este repo para ver lo que se espera que contenga)
 6. Haga un nuevo commit (`git commit -am "feat: agrega contenido del git log"`)
 7. Modifique el archivo `README.md` agregando su nombre y la fecha en la tabla que está al final de este archivo.
-8. Haga un nuevo commit convencional de tipo fix (ejemplo: `git commit -am "fix: agregué mi nombre: Eduardo Diaz a README.md")
+8. Haga un nuevo commit convencional de tipo fix (ejemplo: `git commit -am "fix: agregué mi nombre: Eduardo Diaz Cortes a README.md")
 9. Ejecute el commando `git blame README.md` y busque la primera linea que contenga su nombre, agregue el código que sale a la izquierda a la tabla que está al final de este archivo (al lado de su nombre).
 10. Haga un nuevo commit
 11. ¿Qué hace el comando `git blame README.md`? Agregue su respuesta en el archivo que usted creó en el paso 2.

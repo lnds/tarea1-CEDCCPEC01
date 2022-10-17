@@ -31,3 +31,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Lorenzo Veas|16 de octubre de 2022 |69d17661|
 |Omar Sosa   |15 de octubre de 2022 |18a5fcb1|
 |Patricio Alvarez |17 de octubre de 2022 |0bac3d10|
+|Rodrigo Aro |17 de octubre de 2022 |b0bd7ae0|

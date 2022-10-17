@@ -1,0 +1,32 @@
+Nombre completo: Maria Alejandra Levill Leal
+Cargo: Jefe de Proyecto.
+
+git log:
+
+commit 45f7f17df743e074914798661d0861241a4ebfa7 (HEAD -> 
+main, origin/main)
+Author: Alejandra Levill <alejandralevill@gmail.com>
+Date:   Mon Oct 17 08:31:03 2022 -0300
+
+    Create alejandra2013
+    
+    feat: agrega archivo solicitado
+
+commit 5ac41598890a45f2a56e277aaded193256abb21b
+Author: Eduardo Díaz <ediaz@dcc8090.cl>
+Date:   Sat Oct 15 09:17:07 2022 -0300
+
+    Update README.md
+
+commit f97bd593416f26990f56efc1ef2365192817bdc1
+Author: Eduardo Díaz <ediaz@dcc8090.cl>
+Date:   Sat Oct 15 09:16:37 2022 -0300
+
+    Update eduardo.diaz.md
+
+commit 78837a62260803a8d823eaf88008eb97ada292c8
+Author: Eduardo Diaz <ediaz@dcc8090.cl>
+
+GIT BLAME
+Muestra la información que se ingresó o modificó en cada commit.
+

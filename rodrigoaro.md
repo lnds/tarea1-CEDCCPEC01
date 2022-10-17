@@ -7,3 +7,7 @@ Date:   Mon Oct 17 15:24:05 2022 -0300
 
     feat: Se agrega archivo según lo solicitado
 
+
+El comando "git blame" sirve para analizar un archivo deseado línea a línea con el objetivo de verificar el commit, la persona que lo hizo y en que fecha se hizo esa modificación.
+
+

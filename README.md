@@ -26,4 +26,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Nombre|Fecha|Blame Hash|
 |------|-----|----------|
 |Eduardo Díaz|15 de octubre de 20222|57e0d74c|
-|Byron Pizarro|17 de octubre de 20222|57e0d74c|
+|Byron  Pizarro|17 de octubre de 20222|57e0d74c|

@@ -6,3 +6,5 @@ Author: Victor Toro <vtorolobos@gmail.com>
 Date:   Tue Oct 18 13:49:11 2022 -0300
 
     feat: agregué archivo victortoro.md
+    
+    Qué hace el comando "git blame": Ve línea por línea que hay dentro del archivo y muestra qué tiene y quién (autor) hizo dichos cambios.

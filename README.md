@@ -34,4 +34,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Rodrigo Aro |17 de octubre de 2022 |b0bd7ae0|
 |Christian Contardo  |17 de octubre de 2022 | e72569c3|
 |Jocelyn Pardo  |17 de octubre de 2022 |db4e622f|
-|Diego Fuentes  |19 de octubre de 2022 ||
+|Diego Fuentes  |19 de octubre de 2022 |1acd29aa|

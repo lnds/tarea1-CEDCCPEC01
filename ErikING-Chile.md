@@ -6,3 +6,6 @@ Date:   Tue Oct 18 23:52:21 2022 -0300
 
     feat: agrega archivo solicitado
 ```
+
+git blame
+Muestra con Nombre, fecha y hora quien modifico algo dentro del repositorio

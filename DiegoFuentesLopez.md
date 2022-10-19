@@ -1,2 +1,3 @@
 
-Diego Fuentes Lopez , Administrador de Sistemas
+Nombre: Diego Fuentes Lopez
+Cargo: Administrador de Sistemas

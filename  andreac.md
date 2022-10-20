@@ -7,3 +7,5 @@ Date:   Thu Oct 20 10:25:39 2022 -0300
     Create  andreac.md
     
     feat: agrega archivo solicitado
+
+    ¿que hace git blame? muestra el autor que modificó o agregó cada línea de código en un archivo con el commit ID

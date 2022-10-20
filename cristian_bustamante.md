@@ -10,4 +10,6 @@ Date:   Thu Oct 20 14:52:15 2022 +0000
 
     feat: agrega archivo solicitado
 ```
+# ¿Qué hace `git blame`?
 
+Con git blame se puede conocer quien modificó un archivo específico en el repositorio línea por línea. En otras palabras, permite conocer quien es el responsable o "culpable" de que cada línea esté en ese archivo específico.

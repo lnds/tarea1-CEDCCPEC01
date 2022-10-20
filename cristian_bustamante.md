@@ -1,1 +1,1 @@
-Nombre: Cristian Bustamante Ulloa, Jefe de Proyectos, Área de Desarrollo de Software
+Nombre: Cristian Bustamante, Jefe de Proyectos, Área de Desarrollo de Software

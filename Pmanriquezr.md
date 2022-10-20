@@ -6,4 +6,4 @@ GIT LOG:
 ```
 
 # ¿Qué hace `git blame`?
-Detalla la información de los usuarios que realizaron un commit en algún archivo
+Detalla la información de los usuarios que realizaron un commit en algún archivo.

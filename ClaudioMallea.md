@@ -300,3 +300,8 @@ Author: Eduardo Díaz <ediaz@dcc8090.cl>
 Date:   Sat Oct 15 09:17:07 2022 -0300
 
     Update README.md
+
+Tarea 1 // Punto 11 de la tarea
+¿Que hace el comando git blame?
+Resp: Este comando sirve para identificar los cambios y autor
+de el archivo donde se ejecuta.

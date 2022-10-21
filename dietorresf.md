@@ -545,4 +545,5 @@ Date:   Sat Oct 15 08:45:58 2022 -0300
 	
 	# ¿Qué hace `git blame`?
 	
-	El comando git blame sirve para examinar el contenido de un archivo línea a línea y ver cuándo se ha modificado cada línea y quién es el autor de las modificaciones
+	El comando git blame sirve para examinar el contenido de un archivo línea a línea y 
+	ver cuándo se ha modificado cada línea y quién es el autor de las modificaciones

@@ -7,3 +7,6 @@ Date:   Fri Oct 21 18:56:48 2022 -0300
 
     feat: agrega archivo solicitado
 
+¿Que hace el comando git blame README.me?
+
+git-blame - Show what revision and author last modified each line of a file (fuente git blame --help)

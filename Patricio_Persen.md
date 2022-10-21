@@ -8,3 +8,8 @@ Date:   Fri Oct 21 15:31:17 2022 +0000
 
     feat: agrega archivo solicitado
 ```
+
+
+¿Qué hace el comando git blame README.md?
+Muestra el contenido del archivo indicando en particular el usuario que realizo la modificación en cada linea,la fecha y su codigo.
+

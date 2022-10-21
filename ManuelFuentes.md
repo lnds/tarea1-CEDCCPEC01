@@ -36,3 +36,7 @@ Date:   Mon Oct 17 19:52:13 2022 -0300
     
     ccontardos - pull request
 -------------------------------------------------------
+
+Tarea 1.10:
+¿Qué hace el comando git blame README.md?
+Permite ver quién ha hecho cambios en un archivo específico  línea por línea.

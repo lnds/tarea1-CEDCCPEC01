@@ -33,4 +33,5 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Patricio Alvarez |17 de octubre de 2022 |0bac3d10|
 |Rodrigo Aro |17 de octubre de 2022 |b0bd7ae0|
 |Christian Contardo  |17 de octubre de 2022 | e72569c3|
-|Jocelyn Pardo  |17 de octubre de 2022 |db4e622f|
+|Jocelyn Pardo  |17 de octubre de 2022 |db4e622if|
+jonathan inostroza | 21 de octubre de 2022

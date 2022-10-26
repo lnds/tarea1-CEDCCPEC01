@@ -51,3 +51,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Manuel Fuentes |21 de octubre de 2022|0fc1f54e|
 |Cristian Bustamante|20 de octubre de 2022|d7524d9d|
 jonathan inostroza | 21 de octubre de 2022 | a6b0dfb5
+|Andres Pino  |21 de octubre de 2022 |e5be852c|

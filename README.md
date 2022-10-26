@@ -39,3 +39,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Jose Luis Pedreros|18 de octubre de 2022|2c14fbea|
 |Rodolfo Collio  |18 de Octubre |cfb7328|
 |Erik Flores	|18 de octubre de 2022	|c7b60bb3|
+|Oscar Hidalgo | 19 de octubre de 2022 |92cb1072|

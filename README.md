@@ -25,6 +25,7 @@ Deje acá lo solicitado en los pasos 7 y 9
 
 |Nombre|Fecha|Blame Hash|
 |------|-----|----------|
+|Eduardo Díaz|15 de octubre de 20222|57e0d74c|
 |Eduardo Díaz Cortés|15 de octubre de 20222|57e0d74c|
 |Alejandra Levill|17 de octubre de 20222|8fac9eba|
 |Byron  Pizarro|17 de octubre de 20222|57e0d74c|
@@ -33,5 +34,22 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Patricio Alvarez |17 de octubre de 2022 |0bac3d10|
 |Rodrigo Aro |17 de octubre de 2022 |b0bd7ae0|
 |Christian Contardo  |17 de octubre de 2022 | e72569c3|
+|Jocelyn Pardo  |17 de octubre de 2022 |db4e622if|
 |Jocelyn Pardo  |17 de octubre de 2022 |db4e622f|
+|Victor Toro  |18 de octubre de 2022 |010dbfa9|
+|Jose Luis Pedreros|18 de octubre de 2022|2c14fbea|
+|Rodolfo Collio  |18 de Octubre |cfb7328|
+|Erik Flores	|18 de octubre de 2022	|c7b60bb3|
+|Oscar Hidalgo | 19 de octubre de 2022 |92cb1072|
+|Diego Fuentes  |19 de octubre de 2022 |1acd29aa|
+|Daniel Jofré|20 de octubre de 2022|fe3142d|
+|Andrea Calderon  |20 de octubre de 2022 |98382c3a|
+|Jonnathan Arrue |20 de octubre de 2022 |5e46718d|
+|Pedro Manriquez|20 de octubre de 20222|6b354f6c|
+|Jorge Cordero Torrejón | 20 de octubre de 2022 |1aa83716 
+|Cristian Donoso | 21 de octubre de 2022 | 183999a8|
+|Manuel Fuentes |21 de octubre de 2022|0fc1f54e|
+|Cristian Bustamante|20 de octubre de 2022|d7524d9d|
+|jonathan inostroza | 21 de octubre de 2022 | a6b0dfb5
+|Andres Pino  |21 de octubre de 2022 |e5be852c|
 |Patricio Persen  |21 de octubre de 2022 |fc1ff9a7|

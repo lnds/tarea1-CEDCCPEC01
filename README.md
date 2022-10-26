@@ -34,6 +34,7 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Patricio Alvarez |17 de octubre de 2022 |0bac3d10|
 |Rodrigo Aro |17 de octubre de 2022 |b0bd7ae0|
 |Christian Contardo  |17 de octubre de 2022 | e72569c3|
+|Jocelyn Pardo  |17 de octubre de 2022 |db4e622if|
 |Jocelyn Pardo  |17 de octubre de 2022 |db4e622f|
 |Victor Toro  |18 de octubre de 2022 |010dbfa9|
 |Jose Luis Pedreros|18 de octubre de 2022|2c14fbea|
@@ -49,3 +50,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Cristian Donoso | 21 de octubre de 2022 | 183999a8|
 |Manuel Fuentes |21 de octubre de 2022|0fc1f54e|
 |Cristian Bustamante|20 de octubre de 2022|d7524d9d|
+jonathan inostroza | 21 de octubre de 2022 | a6b0dfb5

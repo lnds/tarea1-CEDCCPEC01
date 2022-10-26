@@ -1,0 +1,14 @@
+Lorenzo Andrés Veas Veas / Desarrollador
+
+commit a859dec84eec1df227258b23b95cddee151b57a5 (HEAD -> 
+main, origin/main)
+Author: renhoders <lorenzoavv@gmail.com>
+Date:   Sun Oct 16 14:12:17 2022 -0300
+
+    MI identificación
+
+
+Que es Blame?
+R: Blame es un Commando que nos facilita visualizar en algun archivo particular los cambios que ha tenido el archivo a traves del tiempo. el hash que aparece en la parte izquiera nos muestra el hash del commit que asigno git a esa entrega.
+
+para ver los detalles de ese commit utilizaremos git show [hash]

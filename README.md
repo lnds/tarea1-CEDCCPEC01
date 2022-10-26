@@ -43,3 +43,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Diego Fuentes  |19 de octubre de 2022 |1acd29aa|
 |Daniel Jofré|20 de octubre de 2022|fe3142d|
 |Andrea Calderon  |20 de octubre de 2022 |98382c3a|
+|Jonnathan Arrue |20 de octubre de 2022 |5e46718d|

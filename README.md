@@ -55,3 +55,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Patricio Persen  |21 de octubre de 2022 |fc1ff9a7|
 |Claudio Mallea Catalan|21 de Octubre de 2022|49b4a5d7|
 |Diego Torres |21 de octubre de 2022|01d38819|
+|Jonathan Carrasco | 21 de octubre de 2022 |5bcb0644| 

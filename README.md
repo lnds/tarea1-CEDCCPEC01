@@ -37,3 +37,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Jocelyn Pardo  |17 de octubre de 2022 |db4e622f|
 |Victor Toro  |18 de octubre de 2022 |010dbfa9|
 |Jose Luis Pedreros|18 de octubre de 2022|2c14fbea|
+|Rodolfo Collio  |18 de Octubre |cfb7328|

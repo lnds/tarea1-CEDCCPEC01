@@ -48,3 +48,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Jorge Cordero Torrejón | 20 de octubre de 2022 |1aa83716 
 |Cristian Donoso | 21 de octubre de 2022 | 183999a8|
 |Manuel Fuentes |21 de octubre de 2022|0fc1f54e|
+|Cristian Bustamante|20 de octubre de 2022|d7524d9d|

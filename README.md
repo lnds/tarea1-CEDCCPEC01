@@ -53,3 +53,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |jonathan inostroza | 21 de octubre de 2022 | a6b0dfb5
 |Andres Pino  |21 de octubre de 2022 |e5be852c|
 |Patricio Persen  |21 de octubre de 2022 |fc1ff9a7|
+|Claudio Mallea Catalan|21 de Octubre de 2022|49b4a5d7|

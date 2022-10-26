@@ -46,3 +46,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Jonnathan Arrue |20 de octubre de 2022 |5e46718d|
 |Pedro Manriquez|20 de octubre de 20222|6b354f6c|
 |Jorge Cordero Torrejón | 20 de octubre de 2022 |1aa83716 
+|Cristian Donoso | 21 de octubre de 2022 | 183999a8|
